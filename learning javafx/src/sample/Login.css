@@ -1,0 +1,27 @@
+.root {
+    -fx-background-image: url("background.jpg");
+}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #fc03f4;
+}
+
+#login-text {
+    -fx-font-size: 32px;
+    -fx-font-family: "Brush Script MT";
+    -fx-fill: #634769;
+}
+
+#action-target {
+    -fx-fill: WHITE;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Brush Script MT";
+    -fx-font-weight: light;
+    -fx-background-color: linear-gradient(#634769, #fc03f4);
+}
