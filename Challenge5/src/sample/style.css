@@ -1,0 +1,39 @@
+#hbox {
+    -fx-background-color: dodgerblue;
+    -fx-alignment: center;
+    -fx-spacing: 13;
+}
+
+#vbox {
+    -fx-background-color: dodgerblue;
+    -fx-alignment: center;
+    -fx-font-family: "Copperplate Gothic Bold";
+}
+
+.button {
+    -fx-background-color: aliceblue;
+    -fx-padding: 13;
+    -fx-font-family: "Candara Light";
+}
+
+.label {
+    -fx-padding: 10;
+    -fx-font-size: 12px;
+}
+
+.chart-title {
+    -fx-font-family: "Yu Gothic UI Semibold";
+    -fx-font-size: 24;
+    -fx-font-weight: bold;
+}
+
+.chart-legend {
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 13;
+    -fx-background-color: aliceblue;
+}
+
+.chart-content {
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 13;
+}
